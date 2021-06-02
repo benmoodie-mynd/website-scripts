@@ -1,0 +1,10448 @@
+{
+  "zipcodes":[
+ {
+   "zip": 77021,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77023,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77028,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77033,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77044,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77047,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77048,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77051,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77061,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77076,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77078,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77087,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77093,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 28214,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28216,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27514,
+   "city": "Chapel Hill",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27516,
+   "city": "Chapel Hill",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27603,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27707,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 89102,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89103,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89104,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89109,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89119,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89120,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89121,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89169,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85009,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85015,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85017,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85033,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85051,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 97210,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97229,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97230,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 95206,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95815,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95817,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 77016,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77037,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77039,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77050,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 27601,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27605,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27607,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 97216,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97219,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97221,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97231,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 95202,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95203,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95204,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95205,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95207,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95209,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95210,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95211,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95212,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95215,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95219,
+   "city": "Stockton",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95838,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 76574,
+   "city": "Taylor",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78628,
+   "city": "Georgetown",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78641,
+   "city": "Leander",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78645,
+   "city": "Leander",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78664,
+   "city": "Round Rock",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78665,
+   "city": "Round Rock",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78704,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78717,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78738,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78741,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78748,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78758,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75002,
+   "city": "Allen",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75002,
+   "city": "Allen",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75023,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75024,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75025,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75034,
+   "city": "Frisco",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75035,
+   "city": "Frisco",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75038,
+   "city": "Irving",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75040,
+   "city": "Garland",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75043,
+   "city": "Garland",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75044,
+   "city": "Garland",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75052,
+   "city": "Grand Prairie",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75060,
+   "city": "Irving",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75061,
+   "city": "Irving",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75062,
+   "city": "Irving",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75063,
+   "city": "Irving",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75067,
+   "city": "Lewisville",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75069,
+   "city": "Mckinney",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75070,
+   "city": "Mckinney",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75071,
+   "city": "Mckinney",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75075,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75077,
+   "city": "Lewisville",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75087,
+   "city": "Rockwall",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75093,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75104,
+   "city": "Cedar Hill",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75115,
+   "city": "Desoto",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75165,
+   "city": "Waxahachie",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76002,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76002,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76006,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76006,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76010,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76010,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76012,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76012,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76015,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76015,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76016,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76016,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76017,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76017,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76020,
+   "city": "Azle",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76053,
+   "city": "Hurst",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76063,
+   "city": "Mansfield",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76103,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76103,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76107,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76107,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76108,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76108,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76109,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76109,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76114,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76114,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76116,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76116,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76120,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76120,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76123,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76123,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76126,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76126,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76133,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76133,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76134,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76134,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76148,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76148,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76180,
+   "city": "North Richland Hills",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76244,
+   "city": "Keller",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77002,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77003,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77004,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77006,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77007,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77008,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77009,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77011,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77014,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77015,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77017,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77018,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77019,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77020,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77022,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77024,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77025,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77026,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77027,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77029,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77030,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77031,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77034,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77035,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77036,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77040,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77041,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77042,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77045,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77049,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77053,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77054,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77055,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77056,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77057,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77058,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77059,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77060,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77062,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77063,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77064,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77065,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77066,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77067,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77069,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77070,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77071,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77072,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77073,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77075,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77077,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77079,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77080,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77082,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77083,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77084,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77085,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77086,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77088,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77089,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77090,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77091,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77092,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77095,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77096,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77099,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77301,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77304,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77338,
+   "city": "Humble",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77339,
+   "city": "Kingwood",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77345,
+   "city": "Kingwood",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77346,
+   "city": "Humble",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77354,
+   "city": "Magnolia",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77355,
+   "city": "Magnolia",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77373,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77375,
+   "city": "Tomball",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77377,
+   "city": "Tomball",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77379,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77380,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77381,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77382,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77384,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77385,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77386,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77388,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77389,
+   "city": "Spring",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77396,
+   "city": "Humble",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77406,
+   "city": "Richmond",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77407,
+   "city": "Richmond",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77449,
+   "city": "Katy",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77450,
+   "city": "Katy",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77459,
+   "city": "Missouri City",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77469,
+   "city": "Richmond",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77471,
+   "city": "Rosenberg",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77477,
+   "city": "Stafford",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77489,
+   "city": "Missouri City",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77493,
+   "city": "Katy",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77494,
+   "city": "Katy",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77503,
+   "city": "Pasadena",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77536,
+   "city": "Deer Park",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77545,
+   "city": "Fresno",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77546,
+   "city": "Friendswood",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77571,
+   "city": "La Porte",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77573,
+   "city": "League City",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77581,
+   "city": "Pearland",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77584,
+   "city": "Pearland",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77590,
+   "city": "Texas City",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78109,
+   "city": "Converse",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78023,
+   "city": "Helotes",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78108,
+   "city": "Cibolo",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78130,
+   "city": "New Braunfels",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78148,
+   "city": "Universal City",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 30004,
+   "city": "Alpharetta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30005,
+   "city": "Alpharetta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30012,
+   "city": "Conyers",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30013,
+   "city": "Conyers",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30022,
+   "city": "Alpharetta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30038,
+   "city": "Lithonia",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30039,
+   "city": "Snellville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30043,
+   "city": "Lawrenceville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30045,
+   "city": "Lawrenceville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30058,
+   "city": "Lithonia",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30062,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30066,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30067,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30068,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30078,
+   "city": "Snellville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30080,
+   "city": "Smyrna",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30082,
+   "city": "Smyrna",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30084,
+   "city": "Tucker",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30088,
+   "city": "Stone Mountain",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30092,
+   "city": "Peachtree Corners",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30096,
+   "city": "Duluth",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30101,
+   "city": "Acworth",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30102,
+   "city": "Acworth",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30106,
+   "city": "Austell",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30115,
+   "city": "Canton",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30117,
+   "city": "Carrollton",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30120,
+   "city": "Cartersville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30122,
+   "city": "Lithia Springs",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30126,
+   "city": "Mableton",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30127,
+   "city": "Powder Springs",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30132,
+   "city": "Dallas",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30135,
+   "city": "Douglasville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30141,
+   "city": "Hiram",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30144,
+   "city": "Kennesaw",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30152,
+   "city": "Kennesaw",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30157,
+   "city": "Dallas",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30168,
+   "city": "Austell",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30180,
+   "city": "Villa Rica",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30188,
+   "city": "Woodstock",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30213,
+   "city": "Fairburn",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30214,
+   "city": "Fayetteville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30215,
+   "city": "Fayetteville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30260,
+   "city": "Morrow",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30274,
+   "city": "Riverdale",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30291,
+   "city": "Union City",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30294,
+   "city": "Ellenwood",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30296,
+   "city": "Riverdale",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30297,
+   "city": "Forest Park",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30305,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30307,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30308,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30309,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30310,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30311,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30312,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30313,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30314,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30315,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30316,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30318,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30319,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30324,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30327,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30331,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30339,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30340,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30342,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30349,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30350,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30354,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30363,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30518,
+   "city": "Buford",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30601,
+   "city": "Athens",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30605,
+   "city": "Athens",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 28025,
+   "city": "Concord",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28031,
+   "city": "Cornelius",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28075,
+   "city": "Harrisburg",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28079,
+   "city": "Indian Trail",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28081,
+   "city": "Kannapolis",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28081,
+   "city": "Kannapolis",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28110,
+   "city": "Monroe",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28213,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28215,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28269,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28625,
+   "city": "Statesville",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 32839,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 27217,
+   "city": "Burlington",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27502,
+   "city": "Apex",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27511,
+   "city": "Cary",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27527,
+   "city": "Clayton",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27587,
+   "city": "Wake Forest",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27597,
+   "city": "Zebulon",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27604,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27606,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27609,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27610,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27614,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27616,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 32708,
+   "city": "Winter Springs",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33543,
+   "city": "Wesley Chapel",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33544,
+   "city": "Wesley Chapel",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33545,
+   "city": "Wesley Chapel",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33569,
+   "city": "Riverview",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33578,
+   "city": "Riverview",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33579,
+   "city": "Riverview",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33603,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33604,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33605,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33606,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33607,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33610,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33611,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33612,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33613,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33617,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33624,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33625,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33647,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33755,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33756,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33763,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34208,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34211,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34683,
+   "city": "Palm Harbor",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34695,
+   "city": "Safety Harbor",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34698,
+   "city": "Dunedin",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34786,
+   "city": "Windermere",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 80011,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80016,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80016,
+   "city": "Foxfield",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80022,
+   "city": "Commerce City",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80022,
+   "city": "Commerce City",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80120,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80121,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80124,
+   "city": "Lone Tree",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80134,
+   "city": "Parker",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80205,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80207,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80210,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80211,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80215,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80218,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80219,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80221,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80222,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80227,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80228,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80229,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80232,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80233,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80233,
+   "city": "Northglenn",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80237,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80239,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80249,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80260,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80260,
+   "city": "Northglenn",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80602,
+   "city": "Brighton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80907,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80908,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80910,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80911,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80915,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80918,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89002,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89011,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89012,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89014,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89015,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89030,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89031,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89032,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89044,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89052,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89074,
+   "city": "Henderson",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89081,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89084,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89086,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89106,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89108,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89110,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89113,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89115,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89117,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89118,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89122,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89123,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89128,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89129,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89130,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89131,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89134,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89135,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89138,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89139,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89141,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89142,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89143,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89144,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89145,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89147,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89148,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89149,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89156,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89166,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89178,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89179,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89183,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85003,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85006,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85007,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85008,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85012,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85013,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85014,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85016,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85018,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85019,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85020,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85021,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85022,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85023,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85024,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85027,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85028,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85029,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85031,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85032,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85035,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85037,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85040,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85041,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85042,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85043,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85044,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85048,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85050,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85053,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85054,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85083,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85085,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85086,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85122,
+   "city": "Casa Grande",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85123,
+   "city": "Arizona City",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85128,
+   "city": "Coolidge",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85131,
+   "city": "Eloy",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85132,
+   "city": "Florence",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85132,
+   "city": "Florence",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85194,
+   "city": "Casa Grande",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85201,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85202,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85203,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85204,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85205,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85206,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85207,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85208,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85209,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85210,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85212,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85213,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85215,
+   "city": "Mesa",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85224,
+   "city": "Chandler",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85225,
+   "city": "Chandler",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85226,
+   "city": "Chandler",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85233,
+   "city": "Gilbert",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85234,
+   "city": "Gilbert",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85248,
+   "city": "Chandler",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85249,
+   "city": "Chandler",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85250,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85251,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85254,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85255,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85257,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85258,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85260,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85281,
+   "city": "Tempe",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85282,
+   "city": "Tempe",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85283,
+   "city": "Tempe",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85286,
+   "city": "Chandler",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85295,
+   "city": "Gilbert",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85296,
+   "city": "Gilbert",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85297,
+   "city": "Gilbert",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85298,
+   "city": "Gilbert",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85301,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85302,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85303,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85304,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85305,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85306,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85307,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85308,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85310,
+   "city": "Glendale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85323,
+   "city": "Avondale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85335,
+   "city": "El Mirage",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85340,
+   "city": "Litchfield Park",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85345,
+   "city": "Peoria",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85375,
+   "city": "Sun City West",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85381,
+   "city": "Peoria",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85382,
+   "city": "Peoria",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85383,
+   "city": "Peoria",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85392,
+   "city": "Avondale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89408,
+   "city": "Fernley",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89433,
+   "city": "Sun Valley",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89501,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89502,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89503,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89506,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89508,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89509,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89511,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89512,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89519,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89521,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89523,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89701,
+   "city": "Carson City",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89706,
+   "city": "Carson City",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85614,
+   "city": "Green Valley",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85629,
+   "city": "Sahuarita",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85641,
+   "city": "Vail",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85653,
+   "city": "Marana",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85658,
+   "city": "Marana",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85704,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85705,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85706,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85710,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85711,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85712,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85713,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85714,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85715,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85716,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85718,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85719,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85730,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85737,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85741,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85742,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85743,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85745,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85746,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85747,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85748,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85756,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85757,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 94061,
+   "city": "Redwood City",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94063,
+   "city": "Redwood City",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94085,
+   "city": "Sunnyvale",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94086,
+   "city": "Sunnyvale",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94087,
+   "city": "Sunnyvale",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94089,
+   "city": "Sunnyvale",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94102,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94103,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94105,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94107,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94109,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94110,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94112,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94115,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94121,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94123,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94124,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94133,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94158,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94401,
+   "city": "San Mateo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94402,
+   "city": "San Mateo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94404,
+   "city": "San Mateo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94501,
+   "city": "Alameda",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94505,
+   "city": "Discovery Bay",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94509,
+   "city": "Antioch",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94513,
+   "city": "Brentwood",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94520,
+   "city": "Concord",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94530,
+   "city": "El Cerrito",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94531,
+   "city": "Antioch",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94541,
+   "city": "Hayward",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94544,
+   "city": "Hayward",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94545,
+   "city": "Hayward",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94553,
+   "city": "Martinez",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94565,
+   "city": "Pittsburg",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94577,
+   "city": "San Leandro",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94578,
+   "city": "San Leandro",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94589,
+   "city": "Vallejo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94590,
+   "city": "Vallejo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94591,
+   "city": "Vallejo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94601,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94602,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94603,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94605,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94606,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94607,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94608,
+   "city": "Emeryville",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94609,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94610,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94611,
+   "city": "Peidmont",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94612,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94618,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94619,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94621,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94702,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94703,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94704,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94706,
+   "city": "Albany",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94707,
+   "city": "Kensington",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94708,
+   "city": "Kensington",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94709,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94710,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94801,
+   "city": "Richmond",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94804,
+   "city": "Richmond",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94805,
+   "city": "Richmond",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94901,
+   "city": "San Rafael",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95008,
+   "city": "Campbell",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95014,
+   "city": "Cupertino",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95032,
+   "city": "Los Gatos",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95033,
+   "city": "Los Gatos",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95035,
+   "city": "Milpitas",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95037,
+   "city": "Morgan Hill",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95050,
+   "city": "Santa Clara",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95051,
+   "city": "Santa Clara",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95054,
+   "city": "Santa Clara",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95070,
+   "city": "Saratoga",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95110,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95111,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95112,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95113,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95116,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95117,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95118,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95119,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95120,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95121,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95122,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95123,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95124,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95125,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95126,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95127,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95128,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95129,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95130,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95131,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95132,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95133,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95136,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95138,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95139,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95148,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 97030,
+   "city": "Gresham",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97034,
+   "city": "Lake Oswego",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97035,
+   "city": "Lake Oswego",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97045,
+   "city": "Oregon City",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97070,
+   "city": "Wilsonville",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97080,
+   "city": "Gresham",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97086,
+   "city": "Happy Valley",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97123,
+   "city": "Hillsboro",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97124,
+   "city": "Hillsboro",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97132,
+   "city": "Newberg",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97140,
+   "city": "Sherwood",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97222,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97223,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97224,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97233,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 98607,
+   "city": "Camas",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98674,
+   "city": "Woodland",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 94533,
+   "city": "Fairfield",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94534,
+   "city": "Fairfield",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95605,
+   "city": "West Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95610,
+   "city": "Citrus Heights",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95616,
+   "city": "Davis",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95618,
+   "city": "Davis",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95621,
+   "city": "Citrus Heights",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95624,
+   "city": "Elk Grove",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95630,
+   "city": "Folsom",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95678,
+   "city": "Roseville",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95691,
+   "city": "West Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95747,
+   "city": "Roseville",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95757,
+   "city": "Elk Grove",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95758,
+   "city": "Elk Grove",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95811,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95814,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95816,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95818,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95819,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95820,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95821,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95822,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95823,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95824,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95825,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95826,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95827,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95828,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95829,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95831,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95833,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95834,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95835,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95841,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95842,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95843,
+   "city": "Antelope",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95864,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 98001,
+   "city": "Auburn",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98002,
+   "city": "Auburn",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98020,
+   "city": "Edmonds",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98027,
+   "city": "Issaquah",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98029,
+   "city": "Issaquah",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98030,
+   "city": "Kent",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98031,
+   "city": "Kent",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98032,
+   "city": "Kent",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98034,
+   "city": "Kirkland",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98036,
+   "city": "Lynnwood",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98075,
+   "city": "Sammamish",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98087,
+   "city": "Lynnwood",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98092,
+   "city": "Auburn",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98204,
+   "city": "Everett",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98403,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98404,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98405,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98409,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98418,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98422,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98444,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98445,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 91950,
+   "city": "National City",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92008,
+   "city": "Carlsbad",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92009,
+   "city": "Carlsbad",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92010,
+   "city": "Carlsbad",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92011,
+   "city": "Carlsbad",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92054,
+   "city": "Oceanside",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92056,
+   "city": "Oceanside",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92057,
+   "city": "Oceanside",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92058,
+   "city": "Oceanside",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92101,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92102,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92103,
+   "city": "Hillcrest",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92103,
+   "city": "Hillcrest",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92104,
+   "city": "North Park",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92104,
+   "city": "North Park",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92105,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92107,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92108,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92109,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92111,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92114,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92115,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92116,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92117,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92120,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92123,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92126,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92127,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92128,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92129,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92130,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92131,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92592,
+   "city": "Temecula",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92620,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92629,
+   "city": "Dana Point",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92660,
+   "city": "Newport Beach",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92663,
+   "city": "Newport Beach",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92672,
+   "city": "San Clemente",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92673,
+   "city": "San Clemente",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 76501,
+   "city": "Temple",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76502,
+   "city": "Temple",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76504,
+   "city": "Temple",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76508,
+   "city": "Temple",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76541,
+   "city": "Killeen",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76542,
+   "city": "Killeen",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76543,
+   "city": "Killeen",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76549,
+   "city": "Killeen",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76577,
+   "city": "Thorndale",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78602,
+   "city": "Bastrop",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78610,
+   "city": "Buda",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78611,
+   "city": "Burnet",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78613,
+   "city": "Cedar Park",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78621,
+   "city": "Elgin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78626,
+   "city": "Georgetown",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78633,
+   "city": "Georgetown",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78636,
+   "city": "Johnson City",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78640,
+   "city": "Kyle",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78642,
+   "city": "Liberty Hill",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78644,
+   "city": "Lockhart",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78654,
+   "city": "Marble Falls",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78657,
+   "city": "Horseshoe Bay",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78660,
+   "city": "Pflugerville",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78666,
+   "city": "San Marcos",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78681,
+   "city": "Round Rock",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78701,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78702,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78703,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78705,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78712,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78719,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78721,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78722,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78723,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78724,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78725,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78726,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78727,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78728,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78729,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78730,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78731,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78732,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78733,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78734,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78735,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78736,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78737,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78739,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78742,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78744,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78745,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78746,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78747,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78749,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78750,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78751,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78752,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78753,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78754,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78756,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78757,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78759,
+   "city": "Austin",
+   "Market": "Austin",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75013,
+   "city": "Allen",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75013,
+   "city": "Allen",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75032,
+   "city": "Rockwall",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75039,
+   "city": "Irving",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75041,
+   "city": "Garland",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75042,
+   "city": "Garland",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75050,
+   "city": "Grand Prairie",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75051,
+   "city": "Grand Prairie",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75054,
+   "city": "Grand Prairie",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75057,
+   "city": "Lewisville",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75074,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75094,
+   "city": "Plano",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75409,
+   "city": "Anna",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 75454,
+   "city": "Melissa",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76001,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76001,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76008,
+   "city": "Aledo",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76011,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76011,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76013,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76013,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76014,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76014,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76018,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76018,
+   "city": "Arlington",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76021,
+   "city": "Bedford",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76022,
+   "city": "Bedford",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76028,
+   "city": "Burleson",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76034,
+   "city": "Colleyville",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76036,
+   "city": "Crowley",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76039,
+   "city": "Euless",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76040,
+   "city": "Euless",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76051,
+   "city": "Grapevine",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76052,
+   "city": "Haslet",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76054,
+   "city": "Hurst",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76092,
+   "city": "Southlake",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76102,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76102,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76104,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76104,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76105,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76105,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76106,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76106,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76110,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76110,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76111,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76111,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76112,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76112,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76115,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76115,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76117,
+   "city": "Haltom City",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76118,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76118,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76119,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76119,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76129,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76129,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76131,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76131,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76132,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76132,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76135,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76135,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76137,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76137,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76140,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76140,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76155,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76155,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76164,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76164,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76177,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76177,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76179,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76179,
+   "city": "Fort Worth",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76182,
+   "city": "North Richland Hills",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76248,
+   "city": "Keller",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 76262,
+   "city": "Roanoke",
+   "Market": "Dallas - Ft Worth",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77005,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77010,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77012,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77013,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77032,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77038,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77043,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77046,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77068,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77074,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77081,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77094,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77098,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77201,
+   "city": "Houston",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77302,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77303,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77306,
+   "city": "Conroe",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77502,
+   "city": "Pasadena",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77504,
+   "city": "Pasadena",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77505,
+   "city": "Pasadena",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77506,
+   "city": "Pasadena",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77507,
+   "city": "Pasadena",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77565,
+   "city": "Kemah",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77591,
+   "city": "Texas City",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 77598,
+   "city": "Webster",
+   "Market": "Houston",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78006,
+   "city": "Boerne",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78015,
+   "city": "Boerne",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78132,
+   "city": "New Braunfels",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 78163,
+   "city": "Bulverde",
+   "Market": "San Antonio",
+   "State": "TX",
+   "Region": "Central"
+ },
+ {
+   "zip": 30008,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30009,
+   "city": "Alpharetta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30030,
+   "city": "Decatur",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30032,
+   "city": "Decatur",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30044,
+   "city": "Lawrenceville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30046,
+   "city": "Lawrenceville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30060,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30064,
+   "city": "Marietta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30083,
+   "city": "Stone Mountain",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30087,
+   "city": "Stone Mountain",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30094,
+   "city": "Conyers",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30097,
+   "city": "Duluth",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30114,
+   "city": "Canton",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30116,
+   "city": "Carrollton",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30118,
+   "city": "Carrollton",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30121,
+   "city": "Cartersville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30125,
+   "city": "Cedartown",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30134,
+   "city": "Douglasville",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30189,
+   "city": "Woodstock",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30223,
+   "city": "Griffin",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30224,
+   "city": "Griffin",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30263,
+   "city": "Newnan",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30265,
+   "city": "Newnan",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30303,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30306,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30317,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30322,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30326,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30328,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30329,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30332,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30334,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30336,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30337,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30338,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30341,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30344,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30345,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30346,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30360,
+   "city": "Atlanta",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30519,
+   "city": "Buford",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30602,
+   "city": "Athens",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30606,
+   "city": "Athens",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30607,
+   "city": "Athens",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 30609,
+   "city": "Athens",
+   "Market": "Atlanta",
+   "State": "GA",
+   "Region": "East"
+ },
+ {
+   "zip": 27560,
+   "city": "Morrisville",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28012,
+   "city": "Belmont",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28016,
+   "city": "Bessemer City",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28021,
+   "city": "Cherryville",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28027,
+   "city": "Concord",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28036,
+   "city": "Davidson",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28052,
+   "city": "Gastonia",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28054,
+   "city": "Gastonia",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28056,
+   "city": "Gastonia",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28078,
+   "city": "Huntersville",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28083,
+   "city": "Kannapolis",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28083,
+   "city": "Kannapolis",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28086,
+   "city": "Kings Mountain",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28098,
+   "city": "Lowell",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28103,
+   "city": "Marshville",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28104,
+   "city": "Matthews",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28105,
+   "city": "Matthews",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28107,
+   "city": "Midland",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28107,
+   "city": "Midland",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28112,
+   "city": "Monroe",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28120,
+   "city": "Mount Holly",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28166,
+   "city": "Troutman",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28173,
+   "city": "Waxhaw",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28174,
+   "city": "Wingate",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28202,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28203,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28204,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28205,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28206,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28207,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28208,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28209,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28210,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28211,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28212,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28217,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28226,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28227,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28244,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28262,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28270,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28273,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28277,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28278,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28280,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28282,
+   "city": "Charlotte",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28601,
+   "city": "Hickory",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28602,
+   "city": "Hickory",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28677,
+   "city": "Statesville",
+   "Market": "Charlotte",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 32750,
+   "city": "Longwood",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32751,
+   "city": "Maitland",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32779,
+   "city": "Longwood",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32789,
+   "city": "Winter Park",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32792,
+   "city": "Winter Park",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32801,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32803,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32804,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32805,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32806,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32807,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32808,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32809,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32810,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32811,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32812,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32814,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32817,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32818,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32819,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32820,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32821,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32822,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32824,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32825,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32826,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32827,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32828,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32829,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32830,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32831,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32832,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32833,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32835,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32836,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32837,
+   "city": "Orlando",
+   "Market": "Orlando",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 27215,
+   "city": "Burlington",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27330,
+   "city": "Sanford",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27332,
+   "city": "Sanford",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27510,
+   "city": "Carrboro",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27513,
+   "city": "Cary",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27517,
+   "city": "Chapel Hill",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27518,
+   "city": "Cary",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27519,
+   "city": "Cary",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27520,
+   "city": "Clayton",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27523,
+   "city": "Apex",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27529,
+   "city": "Garner",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27539,
+   "city": "Apex",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27540,
+   "city": "Holly Springs",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27545,
+   "city": "Knightdale",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27560,
+   "city": "Morrisville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27571,
+   "city": "Rolesville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27591,
+   "city": "Wendell",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27608,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27612,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27613,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27615,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27617,
+   "city": "Raleigh",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27701,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27703,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27704,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27705,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27709,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27712,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27713,
+   "city": "Durham",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27801,
+   "city": "Rocky Mount",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27803,
+   "city": "Rocky Mount",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27804,
+   "city": "Rocky Mount",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27893,
+   "city": "Wilson",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 27896,
+   "city": "Wilson",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28301,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28303,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28304,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28305,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28306,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28311,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28312,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 28314,
+   "city": "Fayetteville",
+   "Market": "Raleigh",
+   "State": "NC",
+   "Region": "East"
+ },
+ {
+   "zip": 32750,
+   "city": "Longwood",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32751,
+   "city": "Maitland",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32779,
+   "city": "Longwood",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32789,
+   "city": "Winter Park",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 32792,
+   "city": "Winter Park",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33037,
+   "city": "Key Largo",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33573,
+   "city": "Sun City Center",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33602,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33609,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33614,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33615,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33616,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33618,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33619,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33620,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33621,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33626,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33629,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33634,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33635,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33637,
+   "city": "Tampa",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33759,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33760,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33761,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33762,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33764,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33765,
+   "city": "Clearwater",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33767,
+   "city": "Clearwater Beach",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33772,
+   "city": "Seminole",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33776,
+   "city": "Seminole",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33777,
+   "city": "Seminole",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 33786,
+   "city": "Belleair Beach",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34201,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34202,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34203,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34205,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34207,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34209,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34210,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34212,
+   "city": "Bradenton",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34219,
+   "city": "Parrish",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34221,
+   "city": "Palmetto",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34684,
+   "city": "Palm Harbor",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34685,
+   "city": "Palm Harbor",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 34761,
+   "city": "Ocoee",
+   "Market": "Tampa",
+   "State": "FL",
+   "Region": "East"
+ },
+ {
+   "zip": 80002,
+   "city": "Arvada",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80010,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80012,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80013,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80014,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80015,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80017,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80018,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80019,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80020,
+   "city": "Broomfield",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80021,
+   "city": "Broomfield",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80023,
+   "city": "Broomfield",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80024,
+   "city": "Dupont",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80026,
+   "city": "Lafayette",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80027,
+   "city": "Louisville",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80037,
+   "city": "Commerce City",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80045,
+   "city": "Aurora",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80104,
+   "city": "Castle Rock",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80108,
+   "city": "Castle Rock",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80108,
+   "city": "Castle Pines",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80109,
+   "city": "Castle Rock",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80110,
+   "city": "Englewood",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80111,
+   "city": "Englewood",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80112,
+   "city": "Englewood",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80113,
+   "city": "Englewood",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80118,
+   "city": "Larkspur",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80122,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80123,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80125,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80126,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80127,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80128,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80129,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80130,
+   "city": "Littleton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80138,
+   "city": "Parker",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80202,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80203,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80204,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80206,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80209,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80212,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80214,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80216,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80220,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80223,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80224,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80226,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80230,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80231,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80234,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80234,
+   "city": "Northglenn",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80235,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80236,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80238,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80241,
+   "city": "Northglenn",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80246,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80247,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80264,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80290,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80293,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80294,
+   "city": "Denver",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80301,
+   "city": "Boulder",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80302,
+   "city": "Boulder",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80303,
+   "city": "Boulder",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80304,
+   "city": "Boulder",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80305,
+   "city": "Boulder",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80310,
+   "city": "Boulder",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80401,
+   "city": "Golden",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80403,
+   "city": "Golden",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80419,
+   "city": "Golden",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80439,
+   "city": "Evergreen",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80465,
+   "city": "Morrison",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80516,
+   "city": "Erie",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80530,
+   "city": "Frederick",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80601,
+   "city": "Brighton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80603,
+   "city": "Brighton",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80640,
+   "city": "Henderson",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80640,
+   "city": "Henderson",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80902,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80903,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80904,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80905,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80906,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80909,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80913,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80914,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80916,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80917,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80919,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80920,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80921,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80922,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80923,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80924,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80925,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80926,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80927,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80928,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80929,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80930,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80938,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80939,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 80951,
+   "city": "Colorado Springs",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 81071,
+   "city": "Sheridan Lake",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 81071,
+   "city": "Sheridan Lake",
+   "Market": "Devner",
+   "State": "CO",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89085,
+   "city": "North Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89101,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89107,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89124,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89146,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89161,
+   "city": "Las Vegas",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89426,
+   "city": "Paradise Valley",
+   "Market": "Las Vegas",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85004,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85034,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85045,
+   "city": "Phoenix",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85118,
+   "city": "Gold Canyon",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85193,
+   "city": "Casa Grande",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85256,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85259,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85262,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85266,
+   "city": "Scottsdale",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85284,
+   "city": "Tempe",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85377,
+   "city": "Carefree",
+   "Market": "Phoenix",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89402,
+   "city": "Crystal Bay",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89510,
+   "city": "Reno",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89702,
+   "city": "Carson City",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89703,
+   "city": "Carson City",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 89705,
+   "city": "Carson City",
+   "Market": "Reno",
+   "State": "NV",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85622,
+   "city": "Green Valley",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85701,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85707,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85708,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85723,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85724,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85726,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85735,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85736,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85739,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85749,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85750,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 85755,
+   "city": "Tucson",
+   "Market": "Tucson",
+   "State": "AZ",
+   "Region": "Southwest"
+ },
+ {
+   "zip": 94062,
+   "city": "Redwood City",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94065,
+   "city": "Redwood City",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94070,
+   "city": "San Carlos",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94104,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94108,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94111,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94114,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94116,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94117,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94118,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94122,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94127,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94128,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94129,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94130,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94131,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94132,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94134,
+   "city": "San Francisco",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94301,
+   "city": "Palo Alto",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94303,
+   "city": "Palo Alto",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94304,
+   "city": "Palo Alto",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94306,
+   "city": "Palo Alto",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94403,
+   "city": "San Mateo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94502,
+   "city": "Alameda",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94518,
+   "city": "Concord",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94519,
+   "city": "Concord",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94521,
+   "city": "Concord",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94542,
+   "city": "Hayward",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94546,
+   "city": "Castro Valley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94550,
+   "city": "Livermore",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94551,
+   "city": "Livermore",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94552,
+   "city": "Castro Valley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94563,
+   "city": "Orinda",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94564,
+   "city": "Pinole",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94579,
+   "city": "San Leandro",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94582,
+   "city": "San Ramon",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94583,
+   "city": "San Ramon",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94592,
+   "city": "Vallejo",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94613,
+   "city": "Oakland",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94705,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94720,
+   "city": "Berkeley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94850,
+   "city": "Richmond",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94903,
+   "city": "San Rafael",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94941,
+   "city": "Mill Valley",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94945,
+   "city": "Novato",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94947,
+   "city": "Novato",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 94949,
+   "city": "Novato",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95030,
+   "city": "Los Gatos",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95053,
+   "city": "Santa Clara",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95134,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95135,
+   "city": "San Jose",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95401,
+   "city": "Santa Rosa",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95403,
+   "city": "Santa Rosa",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95404,
+   "city": "Santa Rosa",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95405,
+   "city": "Santa Rosa",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95407,
+   "city": "Santa Rosa",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95409,
+   "city": "Santa Rosa",
+   "Market": "Bay",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 97062,
+   "city": "Tualatin",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97068,
+   "city": "West Linn",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97201,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97202,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97203,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97204,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97205,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97206,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97208,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97209,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97211,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97212,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97213,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97214,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97215,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97217,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97218,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97220,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97225,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97227,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97232,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97236,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97239,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97266,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 97267,
+   "city": "Portland",
+   "Market": "Portland",
+   "State": "OR",
+   "Region": "West"
+ },
+ {
+   "zip": 98601,
+   "city": "Amboy",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98604,
+   "city": "Battle Ground",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98625,
+   "city": "Kalama",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98632,
+   "city": "Longview",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98671,
+   "city": "Washougal",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 99371,
+   "city": "Washtucna",
+   "Market": "Portland",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 95661,
+   "city": "Roseville",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95746,
+   "city": "Granite Bay",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95830,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95832,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 95837,
+   "city": "Sacramento",
+   "Market": "Sacramento",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 98026,
+   "city": "Edmonds",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98033,
+   "city": "Kirkland",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98037,
+   "city": "Lynnwood",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98040,
+   "city": "Mercer Island",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98042,
+   "city": "Kent",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98074,
+   "city": "Sammamish",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98201,
+   "city": "Everett",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98203,
+   "city": "Everett",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98207,
+   "city": "Everett",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98208,
+   "city": "Everett",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98402,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98406,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98407,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98408,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98416,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98421,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98433,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98443,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98446,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98447,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98465,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 98466,
+   "city": "Tacoma",
+   "Market": "Seattle",
+   "State": "WA",
+   "Region": "West"
+ },
+ {
+   "zip": 91345,
+   "city": "Mission Hills",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92003,
+   "city": "Bonsall",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92067,
+   "city": "Rancho Santa Fe",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92091,
+   "city": "Rancho Santa Fe",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92106,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92110,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92113,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92119,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92121,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92122,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92124,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92132,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92134,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92135,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92139,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92140,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92145,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92147,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92154,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92155,
+   "city": "San Diego",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92590,
+   "city": "Temecula",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92591,
+   "city": "Temecula",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92602,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92603,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92604,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92606,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92612,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92614,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92617,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92618,
+   "city": "Irvine",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92661,
+   "city": "Newport Beach",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ },
+ {
+   "zip": 92662,
+   "city": "Newport Beach",
+   "Market": "SoCal",
+   "State": "CA",
+   "Region": "West"
+ }
+]
+}
